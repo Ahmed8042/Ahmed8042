@@ -3,7 +3,7 @@
 A dedicated **Software Engineer** specializing in **Artificial Intelligence (AI)** and **Data Science**, with robust skills in **Embedded Systems**. Driven by challenging opportunities, I am committed to writing clean, efficient code and mastering cutting-edge technologies.
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmed8042?style=social)](https://github.com/Ahmed8042)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmed-samir-589a26311](https://www.linkedin.com/in/ahmed-samir-a2b171362?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHaMKHF7iQcuUyfcPP%2FgK7g%3D%3D))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/ahmed-samir-a2b171362])
 
 ---
 
