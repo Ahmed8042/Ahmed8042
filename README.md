@@ -48,4 +48,4 @@ This table outlines the essential technologies and languages I work with:
 I'm always open to discussing new projects and technical challenges.
 
 * [cite_start]**Email:** ahmedsamir265202@gmail.com [cite: 2]
-* [cite_start]**LinkedIn:** [[https://linkedin.com/in/ahmed-samir-589a26311](https://linkedin.com/in/ahmed-samir-589a26311](https://www.linkedin.com/in/ahmed-samir-a2b171362?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHaMKHF7iQcuUyfcPP%2FgK7g%3D%3D)) [cite: 9]
+* [cite_start]**LinkedIn:** [[https://linkedin.com/in/ahmed-samir-a2b171362](https://linkedin.com/in/ahmed-samir-589a26311](https://www.linkedin.com/in/ahmed-samir-a2b171362?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHaMKHF7iQcuUyfcPP%2FgK7g%3D%3D))
