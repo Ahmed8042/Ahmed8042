@@ -1,55 +1,51 @@
 # Hi there! 👋 I'm Ahmed Samir
 
-[cite_start]A dedicated **Software Engineer** with a passion for mastering new technologies[cite: 10]. [cite_start]Driven by challenging opportunities to hone technical skills, I am committed to writing clean, efficient code[cite: 10].
+A dedicated **Software Engineer** specializing in **Artificial Intelligence (AI)** and **Data Science**, with robust skills in **Embedded Systems**. Driven by challenging opportunities, I am committed to writing clean, efficient code and mastering cutting-edge technologies.
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmed8042?style=social)](https://github.com/Ahmed8042)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmed-samir-589a26311)
 
 ---
 
-## 🔭 Currently Focused On
+## 💼 Professional Experience & Education
 
-* [cite_start]**Artificial Intelligence (AI) & Machine Learning (ML):** Building predictive and classification models, aiming to optimize resource allocation and enhance effectiveness[cite: 10, 39, 40].
-* [cite_start]**Embedded Systems:** Working on automation and control systems, including voice and remote control features[cite: 55, 61, 63].
-* [cite_start]**Web Development:** Utilizing Python and JavaScript to develop efficient CRUD (Create, Read, Update, Delete) applications[cite: 32, 34].
-
-## ⚙️ My Tech Stack
-
-| Category | Core Skills | Technologies & Tools |
+| Role / Title | Organization | Period |
 | :--- | :--- | :--- |
-| **AI / Machine Learning** | AI, Machine learning, Deep learning | [cite_start]**Python**, SikitLearn, Pandas, Numpy, Matplotlib, Tensorflow [cite: 41, 47, 53] |
-| **Core Programming** | Data Structure, OOP | [cite_start]**Python**, C++, C#, C, Dart [cite: 67] |
-| **Web & Databases** | HTML, CSS, JavaScript | [cite_start]BootStrap, PHP, **SQL**, MySQL, Oracle, Flask [cite: 20, 36, 67] |
-| **Embedded Systems** | Embedded systems, Mechanics | [cite_start]**Marlin**, Arduino Mega, C [cite: 59, 65] |
+| [cite_start]**AVP Reviewer** [cite: 27] | [cite_start]Micro Engineering [cite: 28] | [cite_start]2024/09 – Present [cite: 22] |
+| [cite_start]**Data Entry** [cite: 29] | [cite_start]El Othim Market [cite: 30] | [cite_start]2024/07 – 2024/09 [cite: 24] |
+| **Bachelor's Degree** | [cite_start]Faculty of Computers and AI, Benha University [cite: 13, 14] | [cite_start]2020/10 – 2024/07 [cite: 12] |
+| **Graduation Project** | [cite_start]Self-Driving Vehicle System (Grade: A+) [cite: 17, 18] | [cite_start]2024 [cite: 12] |
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ Core Technical Skills (Tech Stack)
 
-These projects showcase my practical experience and ability to solve real-world problems:
+This table outlines the essential technologies and languages I work with:
 
-* [cite_start]**Self-Driving Vehicle System (Graduation Project):** An innovative solution designed to tackle Egypt's road safety challenges, supported by a sophisticated mobile application for detecting obstacles and signs[cite: 18, 19].
-    * [cite_start]*Tools Used:* OpenCV, Flutter, AI, Python, SQL, Flask, Firebase[cite: 20].
-* [cite_start]**Solar Cells Classification:** Created a deep learning model to classify defective and good solar cells, prioritizing data analysis for the highest accuracy[cite: 45, 46].
-    * [cite_start]*Tools Used:* Tensorflow, Numpy, Matplotlib[cite: 47].
-* [cite_start]**Bank Marketing Predictive Model:** A data science project that analyzed a Portuguese bank's marketing campaigns to predict client subscription to a term deposit[cite: 38, 39].
+| Category | Primary Skills | Key Technologies & Frameworks |
+| :--- | :--- | :--- |
+| **AI / Machine Learning / DS** | [cite_start]AI, Machine learning, Deep learning [cite: 67] | [cite_start]**Python**, SikitLearn [cite: 53][cite_start], Pandas, Numpy, Matplotlib, Tensorflow[cite: 47], Seaborn |
+| **Programming & OOP** | [cite_start]Data Structure, OOP [cite: 67] | [cite_start]**Python**, C++, C#, C [cite: 65][cite_start], Dart [cite: 67] |
+| **Databases** | [cite_start]SQL [cite: 67] | [cite_start]**MySQL**, Oracle [cite: 67][cite_start], Firebase [cite: 20] |
+| **Web Development** | [cite_start]HTML, CSS, JavaScript [cite: 36] | [cite_start]BootStrap [cite: 67][cite_start], PHP, Flask [cite: 20] |
+| **Embedded Systems** | [cite_start]Embedded systems [cite: 55] | [cite_start]**Marlin**, Arduino Mega [cite: 59, 65][cite_start], Mechanics techniques [cite: 59] |
 
 ---
 
-## 🎓 Education & Certifications
+## 🏆 Certifications
 
-* [cite_start]**Bachelor's Degree:** Faculty of Computers and AI, Benha University (Very Good Grade)[cite: 14, 16].
-    * [cite_start]*Graduation Project Grade:* A+[cite: 17].
-* **Key Certifications:**
-    * [cite_start]AWS Academy [cite: 67]
-    * [cite_start]Machine Learning Diploma [cite: 67]
-    * [cite_start]Artificial Intelligence (NTI - ITIDA) [cite: 67]
+[cite_start]I hold the following professional and specialized certifications[cite: 67]:
+
+* **AWS Academy**
+* **Machine Learning Diploma**
+* **Artificial Intelligence** (NTI - ITIDA)
+* **Full stack ASP.net** (Egypt Digital Pioneers 2nd Round Scholarship)
 
 ---
 
 ## 📫 Get In Touch
 
-I'm always open to collaboration on new technical challenges!
+I'm always open to discussing new projects and technical challenges.
 
 * [cite_start]**Email:** ahmedsamir265202@gmail.com [cite: 2]
 * [cite_start]**LinkedIn:** [https://linkedin.com/in/ahmed-samir-589a26311](https://linkedin.com/in/ahmed-samir-589a26311) [cite: 9]
